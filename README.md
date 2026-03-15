@@ -47,7 +47,9 @@
 
 ## Output:
 
+![alt text](<Screenshot (142).png>)
 
+![alt text](<Screenshot (143).png>)
 
 ### Name:Infant Vijay.A
 ### Register Number:212225240052
